@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmanChandra12
 - 👀 I’m interested in Data visualisation
 - 🌱 I’m currently learning PowerBI, Tableau
-- 💞️ I’m looking to collaborate on visualising projects and assignements
+- 💞️ I’m looking to collaborate on visualising projects and assignments
 - 📫 How to reach me at aman05chandra2018@gmail.com
 
 <!---
