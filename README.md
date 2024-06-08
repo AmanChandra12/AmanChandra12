@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data visualisation
 - 🌱 I’m currently learning PowerBI, Tableau
 - 💞️ I’m looking to collaborate on visualising projects and assignments
-- 📫 How to reach me at amanchandra.dm23406@greatlakes.edu.in
+- 📫 How to reach me at aman05chandra2018@gmail.com
 
 <!---
 AmanChandra12/AmanChandra12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
